@@ -11,7 +11,7 @@ text-align: center;
 padding: 30px 20px;
 border-radius: 8px;
 }
-.profile-img {
+img {
 width: 160px;
 height: 160px;
 border-radius: 50%;
